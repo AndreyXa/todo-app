@@ -1,0 +1,12 @@
+{
+  "list": [
+    {
+      "todo": "Walk the dogs",
+      "id": 1
+    },
+    {
+      "todo": "Visit to gym",
+      "id": 2
+    }
+  ]
+}
